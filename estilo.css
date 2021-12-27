@@ -1,0 +1,62 @@
+body {
+    background: #f8b002;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    font: normal Arial;
+}
+
+
+header{
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 5px black;
+    text-transform: uppercase;
+}
+
+
+
+
+p {
+    font-size:larger;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 2px 2px 5px black;
+}
+
+
+#seconds, #minutes, #hours {
+    font-size: 2em;
+
+}
+
+button {
+    background: #f8b002;
+    color: white;
+    font: Arial;
+    border: solid 2px white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px black;
+    cursor: pointer;
+    padding: 18px 10px;
+    width: 100px;
+    margin:  10px;
+    outline: none;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+    color: white;
+    text-align: center;
+}
